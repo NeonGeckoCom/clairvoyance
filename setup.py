@@ -2,9 +2,9 @@ from setuptools import setup
 
 setup(
     name='clairvoyance',
-    version='0.1',
+    version='0.2.0',
     packages=['clairvoyance'],
-    url='',
+    url='https://github.com/JarbasAl/clairvoyance',
     license='MIT',
     author='jarbasAI',
     author_email='jarbasai@mailfence.com',
