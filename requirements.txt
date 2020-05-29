@@ -1,1 +1,5 @@
 resemblyzer
+flask
+scikit-learn
+pyssp
+json_database
